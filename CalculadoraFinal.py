@@ -1,5 +1,3 @@
-print "*********calculadora de Kuro*********";
-print "  "
 print "para que funcione debe escoger una funcion o formula"
 print "la forma de interaccion es>>> Numero+enter"
 print "es importante que se use el . en los digitos, (el uso de la ',' causa la destruccion del mundo)"
